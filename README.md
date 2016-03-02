@@ -1,5 +1,5 @@
 # Technology_Sharing_PPT
-技术分享
+记录我在公司内部给大家做的技术分享：
 
 * [第01期 2015-09-15 Qconf分布式配置管理系统学习分享](qconf.md)
 
