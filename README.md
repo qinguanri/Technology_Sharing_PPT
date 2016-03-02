@@ -3,8 +3,10 @@
 
 * [第01期 2014-05-20 机器学习中的ID3家族算法](id3.md)
 
-* [第02期 2015-05-23 ZooKeeper学习分享](zookeeper.md)
+* [第02期 2014-07-06 大规模在线教育MOOC](mooc.md)
 
-* [第03期 2015-09-15 Qconf分布式配置管理系统学习分享](qconf.md)
+* [第03期 2015-05-23 ZooKeeper学习分享](zookeeper.md)
 
-* [第04期 2016-03-01 基于kubernetes的docker容器编排管理方案](kubernetes.md)
+* [第04期 2015-09-15 Qconf分布式配置管理系统学习分享](qconf.md)
+
+* [第05期 2016-03-01 基于kubernetes的docker容器编排管理方案](kubernetes.md)
